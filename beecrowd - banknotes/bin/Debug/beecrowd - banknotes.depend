@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1664082817 source:d:\problem solve(beecrowd)\beecrowd - banknotes\main.c
+	<stdio.h>
+	<stdlib.h>
+
