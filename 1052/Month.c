@@ -2,8 +2,8 @@
 
 int main()
 {
-    int m;
-    scanf("%d", &m);
+    int N;
+    scanf("%d", &N);
     
     if(m==1) printf("January\n");
     else if(m==2) printf("February\n");
