@@ -1,2 +1,2 @@
-﻿# Problem solving on beecrowd with C
+﻿# Structured Programming With C Practice Code
 
